@@ -8,7 +8,7 @@
         <version>2.6.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.kodilla</groupId>
+    <groupId>com.example</groupId>
     <artifactId>kodilla-course</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>kodilla-course</name>
